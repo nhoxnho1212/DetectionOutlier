@@ -29,6 +29,9 @@
 > phân phối chuẩn tắc là phân phối có trung bình = 0 và độ lệch chuẩn = 1
 
 (https://towardsdatascience.com/understanding-the-68-95-99-7-rule-for-a-normal-distribution-b7b7cbf760c2)
+(https://magoosh.com/statistics/understanding-normal-distribution/)
+
+[tích phân (python using scipy)](https://docs.scipy.org/doc/scipy/reference/generated/scipy.integrate.quad.html)
 
 
 ## 2. IQR score
